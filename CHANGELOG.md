@@ -2,6 +2,32 @@ CHANGELOG
 =========
 
 
+0.1.3 (XXXX-XX-XX)
+------------------
+
+**General changes**:
+
+* Updated Flarum core translations.
+
+
+**Added support for new extensions**:
+
+* [`flarum/bbcode`](https://github.com/flarum/bbcode)
+* [`flarum/extension-manager`](https://github.com/flarum/extension-manager)
+
+
+**Updated translations for extensions**:
+
+* [`flarum/lock`](https://github.com/flarum/lock)
+* [`flarum/pusher`](https://github.com/flarum/pusher)
+* [`flarum/sticky`](https://github.com/flarum/sticky)
+* [`flarum/suspend`](https://github.com/flarum/suspend)
+* [`flarum/tags`](https://github.com/flarum/tags)
+
+
+All changes: [v0.1.2...v0.1.3](https://github.com/flarum-lang/korean/compare/v0.1.2...v0.1.3).
+
+
 0.1.2 (2024-04-04)
 ------------------
 
