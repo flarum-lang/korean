@@ -8,6 +8,7 @@ CHANGELOG
 **General changes**:
 
 * Updated Flarum core translations.
+* Updated validation translations.
 
 
 **Added support for new extensions**:
