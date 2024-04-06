@@ -3,22 +3,48 @@
 # You can read more about the process at https://github.com/rob006-software/flarum-translations/wiki.
 
 flarum-mentions:
+  admin:
+    permissions:
+      mention_groups_label: '그룹 언급'
+    settings:
+      allow_username_format_label: '사용자명 언급 형식 (@사용자명) 허용'
+      allow_username_format_text: "사용자 언급 형식은 현재 @\"표시 이름\"#ID입니다.\n이 설정은 @사용자명의 이전 형식을 사용할 수 있게 하지만, 저장할 때 여전히 새 형식으로 변환됩니다.\n"
+  email:
+    group_mentioned:
+      body: "안녕하세요 {recipient_display_name}님!\n\n{mentioner_display_name}님이 {title}에서 당신이 속한 그룹을 언급했습니다.\n\n{url}\n\n---\n\n{content}\n"
+      subject: '{mentioner_display_name}님이 {title}에서 당신이 속한 그룹을 언급'
+    post_mentioned:
+      body: "안녕하세요 {recipient_display_name}님!\n\n{replier_display_name}님이 {title}의 게시물(#{post_number})에 회답했습니다.\n\n{url}\n\n---\n\n{content}\n"
+      subject: '{replier_display_name}님이 {title}에서 당신의 게시물에 회답'
+    user_mentioned:
+      body: "안녕하세요 {recipient_display_name}님!\n\n{mentioner_display_name}님이 {title}의 게시물에서 당신을 언급했습니다.\n\n{url}\n\n---\n\n{content}\n"
+      subject: '{mentioner_display_name}님이 {title}에서 당신을 언급'
   forum:
     composer:
-      mention_tooltip: '사용자 또는 게시물 언급'
+      mention_tooltip: '사용자, 그룹 또는 게시물 언급'
       reply_to_post_text: '#{number}에게 답장'
+    group_mention:
+      deleted_text: '[알 수 없는 그룹]'
+    mentioned_by:
+      load_more_button: '=> core.ref.load_more'
+      title: '이 게시물에 대한 답글'
     notifications:
+      group_mentioned_text: '{username}님이 당신이 속한 그룹을 언급'
       others_text: '=> core.ref.some_others'
       post_mentioned_text: '{username}님이 귀하의 게시물에 답장했습니다'
       user_mentioned_text: '{username}님이 귀하를 언급했습니다'
     post:
+      mentioned_by_more_text: '추가 {count}개의 답글.'
       mentioned_by_self_text: '{users}님이 이에 답장했습니다.'
       mentioned_by_text: '{users}님이 이에 답장했습니다.'
       others_text: '=> core.ref.some_others'
       quote_button: 인용문
       reply_link: '=> core.ref.reply'
       you_text: '=> core.ref.you'
+    post_mention:
+      deleted_text: '[알 수 없음]'
     settings:
+      notify_group_mentioned_label: '누군가가 게시물에서 내가 속한 그룹을 언급'
       notify_post_mentioned_label: '누군가 내 게시물 중 하나에 답장했을 때'
       notify_user_mentioned_label: '누군가 게시물에서 나를 언급했을 때'
     user:
