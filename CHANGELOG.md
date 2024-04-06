@@ -20,6 +20,7 @@ CHANGELOG
 
 **Updated translations for extensions**:
 
+* [`flarum/akismet`](https://github.com/flarum/akismet)
 * [`flarum/lock`](https://github.com/flarum/lock)
 * [`flarum/pusher`](https://github.com/flarum/pusher)
 * [`flarum/sticky`](https://github.com/flarum/sticky)
