@@ -21,7 +21,9 @@ CHANGELOG
 **Updated translations for extensions**:
 
 * [`flarum/akismet`](https://github.com/flarum/akismet)
+* [`flarum/likes`](https://github.com/flarum/likes)
 * [`flarum/lock`](https://github.com/flarum/lock)
+* [`flarum/markdown`](https://github.com/flarum/markdown)
 * [`flarum/pusher`](https://github.com/flarum/pusher)
 * [`flarum/sticky`](https://github.com/flarum/sticky)
 * [`flarum/suspend`](https://github.com/flarum/suspend)
