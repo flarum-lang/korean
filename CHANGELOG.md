@@ -26,6 +26,7 @@ CHANGELOG
 * [`flarum/markdown`](https://github.com/flarum/markdown)
 * [`flarum/pusher`](https://github.com/flarum/pusher)
 * [`flarum/sticky`](https://github.com/flarum/sticky)
+* [`flarum/subscriptions`](https://github.com/flarum/subscriptions)
 * [`flarum/suspend`](https://github.com/flarum/suspend)
 * [`flarum/tags`](https://github.com/flarum/tags)
 
