@@ -14,12 +14,16 @@ flarum-statistics:
       title: '사용자 정의 날짜 범위 선택'
     statistics:
       active_users_text: '{count}명 온라인'
+      current_period: '현재 기간'
       discussions_heading: '=> core.ref.discussions'
       export_chart_button: '차트를 SVG로 내보내기'
       last_12_months_label: '지난 12개월'
       last_28_days_label: '지난 28일'
       last_7_days_label: '지난 7일'
+      no_data: '이 날짜 범위에 대한 데이터가 없습니다.'
       posts_heading: '=> core.ref.posts'
+      previous_period: '이전 기간'
       today_label: 오늘
       total_label: 합계
       users_heading: '=> core.ref.users'
+      view_full: '더 많은 통계 보기'
