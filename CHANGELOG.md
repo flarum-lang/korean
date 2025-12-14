@@ -2,7 +2,7 @@ CHANGELOG
 =========
 
 
-0.1.3 (XXXX-XX-XX)
+1.1.3 (XXXX-XX-XX)
 ------------------
 
 **General changes**:
@@ -34,7 +34,7 @@ CHANGELOG
 * [`flarum/tags`](https://github.com/flarum/tags)
 
 
-All changes: [v0.1.2...v0.1.3](https://github.com/flarum-lang/korean/compare/v0.1.2...v0.1.3).
+All changes: [v0.1.2...v1.1.3](https://github.com/flarum-lang/korean/compare/v0.1.2...v1.1.3).
 
 
 0.1.2 (2024-04-04)
