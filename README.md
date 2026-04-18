@@ -14,7 +14,7 @@ This language pack contains Korean translations for Flarum (compatible with `1.0
 You can install language pack using [Composer](https://getcomposer.org/):
 
 ```console
-composer require flarum-lang/korean
+composer require "flarum-lang/korean:*"
 ```
 
 Then enable extension in admin panel of your Flarum.
