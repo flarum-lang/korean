@@ -76,6 +76,7 @@ php flarum cache:clear
 
 | Extension | Status |
 | --- | --- |
+| [`fof/masquerade`](https://github.com/FriendsOfFlarum/masquerade) | [![Translation status](https://weblate.rob006.net/widgets/flarum2/ko/fof-masquerade/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-masquerade/ko/) |
 
 <!-- fof-extensions-list-stop -->
 
