@@ -89,6 +89,7 @@ php flarum cache:clear
 | --- | --- |
 | [`acpl/flarum-lscache`](https://github.com/android-com-pl/flarum-lscache) | [![Translation status](https://weblate.rob006.net/widgets/flarum/ko/acpl-lscache/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/acpl-lscache/ko/) |
 | [`acpl/mobile-tab`](https://github.com/android-com-pl/mobile-tab) | [![Translation status](https://weblate.rob006.net/widgets/flarum/ko/acpl-mobile-tab/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/acpl-mobile-tab/ko/) |
+| [`datlechin/flarum-posted-on`](https://github.com/datlechin/flarum-posted-on) | [![Translation status](https://weblate.rob006.net/widgets/flarum/ko/datlechin-posted-on/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/datlechin-posted-on/ko/) |
 
 <!-- various-extensions-list-stop -->
 
