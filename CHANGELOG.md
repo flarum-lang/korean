@@ -7,8 +7,8 @@ CHANGELOG
 
 **General changes**:
 
-* Updated Flarum core translations.
-* Updated validation translations.
+* Updated Flarum core translations (11 added, 69 removed).
+* Updated validation translations (28 added, 94 removed).
 
 
 **Added support for new extensions**:
@@ -21,25 +21,21 @@ CHANGELOG
 
 **Updated translations for extensions**:
 
-* [`flarum/akismet`](https://github.com/flarum/akismet)
-* [`flarum/approval`](https://github.com/flarum/approval)
-* [`flarum/emoji`](https://github.com/flarum/emoji)
-* [`flarum/flags`](https://github.com/flarum/flags)
-* [`flarum/likes`](https://github.com/flarum/likes)
-* [`flarum/lock`](https://github.com/flarum/lock)
-* [`flarum/markdown`](https://github.com/flarum/markdown)
-* [`flarum/mentions`](https://github.com/flarum/mentions)
-* [`flarum/nicknames`](https://github.com/flarum/nicknames)
-* [`flarum/pusher`](https://github.com/flarum/pusher)
-* [`flarum/statistics`](https://github.com/flarum/statistics)
-* [`flarum/sticky`](https://github.com/flarum/sticky)
-* [`flarum/subscriptions`](https://github.com/flarum/subscriptions)
-* [`flarum/suspend`](https://github.com/flarum/suspend)
-* [`flarum/tags`](https://github.com/flarum/tags)
-* [`fof/masquerade`](https://github.com/FriendsOfFlarum/masquerade)
+* [`flarum/akismet`](https://github.com/flarum/akismet) (3 added)
+* [`flarum/likes`](https://github.com/flarum/likes) (4 added)
+* [`flarum/lock`](https://github.com/flarum/lock) (2 changed)
+* [`flarum/markdown`](https://github.com/flarum/markdown) (11 added, 9 removed)
+* [`flarum/mentions`](https://github.com/flarum/mentions) (13 added, 1 changed)
+* [`flarum/pusher`](https://github.com/flarum/pusher) (2 changed)
+* [`flarum/statistics`](https://github.com/flarum/statistics) (17 added, 1 removed)
+* [`flarum/sticky`](https://github.com/flarum/sticky) (2 changed)
+* [`flarum/subscriptions`](https://github.com/flarum/subscriptions) (3 added)
+* [`flarum/suspend`](https://github.com/flarum/suspend) (11 added, 2 changed)
+* [`flarum/tags`](https://github.com/flarum/tags) (13 added, 6 changed, 6 removed)
+* [`fof/masquerade`](https://github.com/FriendsOfFlarum/masquerade) (2 removed)
 
 
-All changes: [v0.1.2...v2.0.0](https://github.com/flarum-lang/korean/compare/v0.1.2...v2.0.0).
+All changes: [v0.1.2...2.0.0](https://github.com/flarum-lang/korean/compare/v0.1.2...2.0.0).
 
 
 0.1.2 (2024-04-04)
