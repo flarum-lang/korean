@@ -2,6 +2,42 @@ CHANGELOG
 =========
 
 
+2.0.0 (2026-09-30)
+------------------
+
+**General changes**:
+
+* Updated Flarum core translations (11 added, 69 removed).
+* Updated validation translations (28 added, 94 removed).
+
+
+**Added support for new extensions**:
+
+* [`acpl/flarum-lscache`](https://github.com/android-com-pl/flarum-lscache) (63% complete)
+* [`datlechin/flarum-posted-on`](https://github.com/datlechin/flarum-posted-on) (100% complete)
+* [`flarum/bbcode`](https://github.com/flarum/bbcode) (100% complete)
+* [`flarum/extension-manager`](https://github.com/flarum/extension-manager) (82% complete)
+
+
+**Updated translations for extensions**:
+
+* [`flarum/akismet`](https://github.com/flarum/akismet) (3 added, 87% complete)
+* [`flarum/likes`](https://github.com/flarum/likes) (4 added, 88% complete)
+* [`flarum/lock`](https://github.com/flarum/lock) (2 changed, 72% complete)
+* [`flarum/markdown`](https://github.com/flarum/markdown) (11 added, 9 removed, 100% complete)
+* [`flarum/mentions`](https://github.com/flarum/mentions) (13 added, 1 changed, 77% complete)
+* [`flarum/pusher`](https://github.com/flarum/pusher) (2 changed, 50% complete)
+* [`flarum/statistics`](https://github.com/flarum/statistics) (17 added, 1 removed, 100% complete)
+* [`flarum/sticky`](https://github.com/flarum/sticky) (2 changed, 46% complete)
+* [`flarum/subscriptions`](https://github.com/flarum/subscriptions) (3 added, 82% complete)
+* [`flarum/suspend`](https://github.com/flarum/suspend) (11 added, 2 changed, 76% complete)
+* [`flarum/tags`](https://github.com/flarum/tags) (13 added, 6 changed, 6 removed, 81% complete)
+* [`fof/masquerade`](https://github.com/FriendsOfFlarum/masquerade) (2 removed, 69% complete)
+
+
+All changes: [v0.1.2...2.0.0](https://github.com/flarum-lang/korean/compare/v0.1.2...2.0.0).
+
+
 0.1.2 (2024-04-04)
 ------------------
 
