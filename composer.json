@@ -1,33 +1,26 @@
 {
 	"name": "flarum-lang/korean",
+	"description": "Korean Language Pack for Flarum",
 	"type": "flarum-extension",
-	"description": "Korean language pack for Flarum.",
-	"homepage": "https://github.com/flarum-lang/korean",
 	"keywords": [
-		"locale",
-		"flarum",
-		"ko-locale"
+		"flarum-locale"
 	],
+	"homepage": "https://github.com/flarum-lang/korean",
 	"license": "MIT",
-	"authors": [
-		{
-			"name": "Mingu Kang",
-			"email": "mingu.kang@defyworks.com",
-			"homepage": "https://defyworks.com/"
-		}
-	],
 	"support": {
 		"issues": "https://github.com/flarum-lang/korean/issues",
+		"forum": "https://discuss.flarum.org/d/34368",
 		"source": "https://github.com/flarum-lang/korean"
 	},
 	"require": {
 		"flarum/core": "^1.0"
 	},
-	"minimum-stability": "dev",
-	"prefer-stable": true,
 	"extra": {
+		"branch-alias": {
+			"dev-master": "1.x-dev"
+		},
 		"flarum-extension": {
-			"title": "한국어",
+			"title": "Korean",
 			"category": "language",
 			"icon": {
 				"image": "icon.svg",
@@ -38,12 +31,6 @@
 		"flarum-locale": {
 			"code": "ko",
 			"title": "한국어"
-		},
-		"extiverse": {
-			"discuss": ""
-		},
-		"branch-alias": {
-			"dev-master": "1.x-dev"
 		}
 	}
 }
